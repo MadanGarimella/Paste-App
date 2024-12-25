@@ -13,6 +13,6 @@ Welcome to the Paste App! This project help you in Creating, Storing the informa
 This App was build using **React + Vite**.
 
 <ins>**Installation Steps**</ins>
-
-
+1. Clone the repository:
+   git clone
 
