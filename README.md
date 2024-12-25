@@ -15,8 +15,8 @@ This App was build using **React + Vite**.
 <ins>**Installation Steps**</ins>
 1. Clone the repository:
 
-   git clone https://github.com/MadanGarimella/Paste-App/tree/main
-   cd Paste-App
+   ##git clone https://github.com/MadanGarimella/Paste-App/tree/main
+   ##cd Paste-App
 
 2. Install Dependencies:
 
