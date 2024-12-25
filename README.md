@@ -8,6 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 **Introduction**
+
 Welcome to the Paste App! This project help you in Creating, Storing the information as Notes. These Notes can easily be Created, Accesed and Stored.
 This App was build using **React + Vite**.
 
